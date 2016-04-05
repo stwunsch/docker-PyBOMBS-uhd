@@ -1,2 +1,3 @@
-# docker-pybombs-uhd
-UHD via PyBOMBS Dockerfile
+# UHD via PyBOMBS on top of Ubuntu Dockerfile
+
+For more information, check out https://github.com/stwunsch/docker-pybombs-gnuradio.
